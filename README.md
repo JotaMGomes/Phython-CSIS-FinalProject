@@ -7,7 +7,7 @@ This project reads a set of sales history data from some Walmart stores and runs
 
 Data walmart: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 
-More datails in the file: Project-CSIS4260-JLMG.pptx<br>
+More datails in the file: [Project-CSIS4260-JLMG.pptx](Presentation/Project-CSIS4260-JLMG.pptx)<br>
 
 Libs:<br>
 = pandas<br>
