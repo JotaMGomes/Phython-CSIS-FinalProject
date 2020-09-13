@@ -1,0 +1,12 @@
+data walmart
+	https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
+
+
+create virtual environments (windows)
+	python -m venv venv
+	.\venv\Scripts\activate.ps1
+
+
+Install packages
+	pip install -r requirements.txt
+	
